@@ -89,6 +89,8 @@ frontend/
 │
 └── package.json
 
+---
+
 
 ⚙️ Installation
 1️⃣ Clone Repository
